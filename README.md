@@ -2,7 +2,7 @@
 
 I den här övningen ska du bygga vidare på ett valfritt REST API som du redan har utvecklat under kursen. API:et behöver ha en resurs (ett *item*) som går att skapa och radera.
 
-Har du inget tidigare API kan du använda startprojektet som **publiceras tisdag morgon**.
+Har du inget tidigare API kan du använda startprojektet som du [hittar här](./auth-bootcamp-starting-template).
 
 Använd **AWS Lambda, DynamoDB och Middy** samt de tekniker vi gått igenom på lektionerna. Anpassa namnen på resurser och endpoints efter ditt projekt.
 
